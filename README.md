@@ -1,2 +1,3 @@
 # Example3
-Creating a Git Repo From Scratch
+This is a quote for Professor Murray's DIG4639 Class
+"Those who do not learn history are doomed to repeat it" - Winston Churchill

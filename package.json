@@ -1,0 +1,20 @@
+{
+  "name": "example3",
+  "version": "1.0.0",
+  "description": "Creating a Git Repo From Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvd110698/Example3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvd110698/Example3/issues"
+  },
+  "homepage": "https://github.com/mvd110698/Example3#readme"
+}
